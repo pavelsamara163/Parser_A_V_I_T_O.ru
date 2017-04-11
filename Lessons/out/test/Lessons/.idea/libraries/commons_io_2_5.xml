@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="commons-io-2.5">
+    <CLASSES>
+      <root url="jar://C:/SeleniumWeb/lib/commons-io-2.5.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/commons-exec-1.3.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/commons-codec-1.10.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/cglib-nodep-3.2.4.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/commons-lang3-3.4.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/cssparser-0.9.20.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/gson-2.3.1.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/guava-19.0.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/hamcrest-library-1.3.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/htmlunit-2.23.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/htmlunit-core-js-2.23.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/httpclient-4.5.2.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/httpcore-4.4.4.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/httpmime-4.5.2.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/jetty-io-9.2.13.v20150730.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/jetty-util-9.2.13.v20150730.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/jna-4.1.0.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/jna-platform-4.1.0.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/junit-4.12.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/neko-htmlunit-2.23.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/netty-3.5.7.Final.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/phantomjsdriver-1.3.0.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/sac-1.3.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/serializer-2.7.2.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/websocket-api-9.2.15.v20160210.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/websocket-client-9.2.15.v20160210.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/websocket-common-9.2.15.v20160210.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/xalan-2.7.2.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/xercesImpl-2.11.0.jar!/" />
+      <root url="jar://C:/SeleniumWeb/lib/xml-apis-1.4.01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
